@@ -1,10 +1,10 @@
-# Lust
+# Java  Client
 
 ### Exporting with IntelliJ
 
 Build > Build Artifacts
 
-Check /target/lust.1.0.0.jar
+Check /target/Client.1.0.0.jar
 
 ### Building and Running
 
